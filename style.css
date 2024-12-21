@@ -80,6 +80,7 @@ button .fa-solid{
     cursor: pointer;
     border-radius: 5px;
     height: auto;
+    transition: all 0.3s ease;
 }
 
 .result-box .box p{
